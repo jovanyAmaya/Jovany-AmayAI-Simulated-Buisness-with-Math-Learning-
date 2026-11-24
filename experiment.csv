@@ -1,0 +1,9 @@
+trial_id,progression,cohort,price_point,unit_cogs,conversion_rate,units_sold,net_profit
+1,FIN,control_monthly,120.0,36.0,0.045,420,7280.0
+2,FIN,control_monthly,120.0,36.0,0.047,435,8540.0
+3,FIN,control_monthly,120.0,36.0,0.044,412,6608.0
+4,FIN,control_monthly,120.0,36.0,0.046,428,7952.0
+5,FIN,annual_contract,110.0,34.0,0.058,540,13040.0
+6,FIN,annual_contract,110.0,34.0,0.060,558,14408.0
+7,FIN,annual_contract,110.0,34.0,0.057,531,12356.0
+8,FIN,annual_contract,110.0,34.0,0.059,549,13724.0
